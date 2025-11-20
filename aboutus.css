@@ -1,0 +1,38 @@
+Body{
+	Background-color: #91d1da;
+	text-align: center;
+	background-position: center;
+header{
+	Color: black;
+	font-family: "american typewriter", sans-serif;
+	font-size: 100px;
+	text-decoration: bold;
+	text-align: center;
+
+}
+#banner{
+	width:50%;
+	Height: 100px;
+	Background-color: orange;
+	text-align: center;
+	background-position: center;
+	}
+Body{
+	
+	Color: black;
+	font-family: "american typewriter", sans-serif;
+	font-size: 100px;
+	text-decoration: none;
+	text-align: center;
+}
+
+#About{
+Background-color: Orange;
+width: 50%;
+Height: 500px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+font-family: "american typewriter", sans-serif;
+font-size: 30px;
+}
